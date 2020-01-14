@@ -40,6 +40,7 @@ test('What component aspect are you testing?', assert => {
 
   assert.end();
 });
+```
 
 ## Pull requests
 The title of a pull request should include the issue ID and title.
