@@ -17,6 +17,7 @@ Basically I've a translation file that looks like this...
     "translation-key-3": "Aún más texto"
   }
 }
+```
 
 Amazon Translate requires this...
 ```
@@ -53,7 +54,7 @@ Obviously you'll need a translation file in the json format above.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) so you understand the process for submitting pull requests to me.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) so you understand the process for submitting pull requests to me.
 
 ## License
 
