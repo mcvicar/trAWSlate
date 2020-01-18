@@ -1,0 +1,10 @@
+{
+  "lang-id-1": "this is a EStest",
+  "nothing-id": "another EStest",
+  "a-third-id": "final EShappy path test",
+  "sub-translation": {
+	"sub-translation-1": "test ESone",
+	"sub-translation-2": "test EStwo",
+	"sub-translation-3": "test ESthree"
+  }
+}

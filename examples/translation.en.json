@@ -1,0 +1,10 @@
+{
+  "lang-id-1": "this is a test",
+  "nothing-id": "another test",
+  "a-third-id": "final happy path test",
+  "sub-translation": {
+	"sub-translation-1": "Subtest one",
+	"sub-translation-2": "Subtest 2",
+	"sub-translation-3": "tēst three 😀"
+  }
+}
