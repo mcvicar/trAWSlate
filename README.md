@@ -38,7 +38,7 @@ npm i
 
 ### Running the command
 ```
-node example/translation.json es
+node index.js example/translation.json es
 ```
 
 ### Prerequisites
@@ -46,6 +46,7 @@ You'll need an AWS account, an IAM role that can use Amazon Translate and node.
 Obviously you'll need a translation file in the json format above.
 
 ## A couple of assumptions
+* I've found I need my AWS details in exports for node to run successfully (e.g. export AWS_ACCESS_KEY_ID=XXXX, export AWS_SECRET_ACCESS_KEY=YYYY, AWS_DEFAULT_REGION=eu-west-1)
 * The first language you have in the translation file is the source language
 * You want to have the same translation file for all languages
 * This only supports the languages supported by [Amazon Translate](https://docs.aws.amazon.com/translate/latest/dg/what-is.html) - both source and target
