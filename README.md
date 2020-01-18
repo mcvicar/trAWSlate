@@ -51,6 +51,7 @@ Obviously you'll need a translation file in the json format above.
 * This only supports the languages supported by [Amazon Translate](https://docs.aws.amazon.com/translate/latest/dg/what-is.html) - both source and target
 * No it doesn't support XLIFF, or any other translation file type
 * We only scan a single child deep into the JSON
+* No it doesn't support for batching to/from S3
 
 ## Contributing
 
