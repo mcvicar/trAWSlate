@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mcvicar/trAWSlate#readme",
   "dependencies": {
-    "aws-sdk": "^2.604.0"
+    "aws-sdk": "^2.648.0"
   },
   "devDependencies": {
     "jest": "^24.9.0"
