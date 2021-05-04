@@ -38,7 +38,7 @@ npm i
 
 ### Running the command
 ```
-node index.js example/translation.json es
+node index.js examples/translations.json es
 ```
 
 ### Prerequisites
